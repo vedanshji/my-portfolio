@@ -1,0 +1,113 @@
+.home {
+    width: 90%;
+    height: 100%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 5%;
+}
+
+.home .container {
+    width: 90%;
+    height: 100%;
+    z-index: 1000 !important;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.home .image-box {
+    width: 40%;
+}
+
+.home .image-box img {
+    width: 78%;
+    height: 78%;
+    margin: 10%;
+    object-fit: fill;
+    border-radius: .5rem;
+}
+
+.container .text-box {
+    margin: 15% auto 15% 0;
+    width: 60%;
+}
+
+.container #resume,
+.text-box a {
+    display: inline-block;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.5);
+    font-weight: 500 !important;
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    font-size: 1.2rem;
+    color: rgb(224, 222, 255);
+    padding: .3rem .5rem;
+    border-radius: .3rem;
+}
+
+.home .container .text-box #myname {
+    font-weight: 400;
+    font-size: 5rem !important;
+    font-family: "Archivo Black", sans-serif;
+}
+
+.home .container p {
+    opacity: .8;
+    margin: 5% auto;
+}
+
+
+#location {
+    margin-top: 5%;
+}
+
+@media screen and (max-width:600px) {
+    .home .container .text-box {
+        width: 90%;
+        margin: 35% auto 0 !important;
+    }
+    .home .container .text-box #myname {
+        font-size: 3.5rem !important;
+    }
+    .home .container .text-box p {
+        margin: 8% 0 5% 0%;
+        width: 100%; 
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width:980px) {
+    #location {
+        padding-top: 5%;
+    }
+    .home {
+        flex-direction: column;
+        width: 85%;
+        margin-left: 15%;
+    
+    }
+
+    .home .container {
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+
+    .home .container .text-box #myname {
+        font-size: 4rem !important;
+    }
+
+    .home .container .text-box {
+        width: 90%;
+        margin: 30% auto 5% !important;
+    }
+
+    .home .container .image-box {
+        width: 70%;
+        margin-right: 30%;
+    }
+}

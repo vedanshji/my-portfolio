@@ -1,0 +1,93 @@
+{
+  "user": {
+    "IntroLine": "Hi, I'm Vedansh.",
+    "About": "I’m an enthusiastic Computer Science student from India. I thrive on creating fascinating projects and infusing my creativity into every endeavor. My curiosity drives me to explore cutting-edge technologies like AI, ML, Deep Learning, and Generative AI. Beyond coding, I find wonder in understanding the stars, moon and our world. When I’m not immersed in code, I excel in management, photography, and even behind the wheel.",
+    "email": "vedansh.rajj@gmail.com"
+  },
+  "socials": {
+    "github": "https://github.com/vedanshji",
+    "linkedin": "https://www.linkedin.com/in/vedansh-ji/",
+    "twitter": "https://x.com/Vedanshsriji",
+    "discord": "https://discordapp.com/users/unavilable",
+    "instagram": "https://www.instagram.com/vedanshsofficial/",
+    "stackoverflow": "https://stackoverflow.com/users/25664777/vedanshji",
+    "dev":"https://dev.to/vedanshji"
+  },
+  "RandomAboutText": [
+    "Things I have working onn (I am also willing to work on more like this😑)",
+    "Things like 'Complete' doesn't exsist in our life as I got an idea about a project and I start working on them. There's always something there which I find that can be improved. So every project is ongoing. "
+  ],
+  "exp": {
+    "exp1": {
+      "company_name": "Indian Explosive Pvt Ltd, Gomia",
+      "start_date": "Oct 1st, 2022",
+      "end_date": "Oct 31st, 2022",
+      "designation": "Industrial Training",
+      "description": "Completed 1-month Industrial Training on Industrial application of electronic devices at Indian Explosive Pvt Ltd, Gomia"
+    },
+    "exp2": {
+      "company_name": "Tata Steel Foundation",
+      "start_date": "Jan 10, 2022",
+      "end_date": "March 25, 2023",
+      "designation": "Student",
+      "description": "Completed one-year soft skilled course in Tata Steel Foundation (YDM course in Tata Strive) and used to learn a lot of softskills and multiple human sense develpmet couses."
+    },
+    "exp3":{
+      "company_name":"Wipro Ltd",
+      "start_date":"August 1, 2024",
+      "end_date":"present",
+      "designation":"Scholar Trainee",
+      "description":"Work as Scholar Trainee under Work Integrated Learning Program (WILP) , which offers Scholarship to pursue BTech from BITS, pilani along with Wipro's work culture."
+    }
+    
+  },
+  "projects": {
+    "project1": {
+      "name": "Line follwing robotic car",
+      "description": "A line follower car is a robot that follows a visible line on a surface, typically a black line on a white background",
+      "tech_stack": "Sensor, OFC, Arduino, Microcontroller"
+    },
+    "project2": {
+      "name": "Web Scraping Program",
+      "description": "Web scraping is the process of automatically extracting data from a website. You use a program called a web scraper to access a web page, interpret the data,extract what you need",
+      "tech_stack": "HTML5, CSS3, Python"
+    },
+    "project3": {
+      "name": "Weather Program",
+      "description": "A weather program is a software application that provides weather-related information to users. It typically includes features such as data fetching.",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    },
+    "project4": {
+      "name": "Snake game",
+      "description": "Snake is a genre of action video games where the player maneuvers the end of a growing line, often themed as a snake",
+      "tech_stack": "python"
+    },
+    "project5": {
+      "name": "Tesla Coil",
+      "description": " A Tesla coil is an electrical resonant transformer circuit designed by inventor Nikola Tesla in 1891, we tried this as project",
+      "tech_stack": "Tesla, circut, breadboard"
+    },
+    "project6": {
+      "name": "The Stay PG",
+      "description": "A simple project for the PG owner to manage the in and out, joing and leaving and mange finacae for the PG caretaker.",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    }
+    
+  },
+  
+  "ArtWorks": {
+    "Work1": {
+      "img": "Clicks/01-art.jpg"
+    },
+    "Work2": {
+      "img": "Clicks/01-click.jpg"
+    },
+    "Work3": {
+      "img": "Clicks/02-click.jpg"
+    },
+    "Work4": {
+      "img": "Clicks/03-click.jpg"
+    }
+  },
+  "myCV": "/myCV.pdf"
+}

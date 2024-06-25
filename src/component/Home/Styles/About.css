@@ -1,0 +1,157 @@
+.about {
+    width: 90%;
+    height: 100%;
+    margin-left: 10%;
+    padding-bottom: 3.9%;
+}
+
+.about h1 {
+    font-weight: 400;
+    padding-bottom: 2%;
+}
+
+.about p {
+    width: 70%;
+    padding-bottom: 5%;
+}
+
+.about .container {
+    width: 65%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background: var(--card_background);
+    margin-bottom: 5%;
+    margin-top: 5%;
+    box-shadow: var(--shadow1);
+}
+
+.about .container .text {
+    width: 60%;
+    height: 100%;
+}
+
+.about .container .text p {
+    padding: 0 5%;
+    width: 90%;
+    font-size: smaller;
+}
+
+.about .container .text h2 {
+    padding: 0 5% 5% 5%;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.about .container .image-box {
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.about .container .image-box img {
+    width: 100%;
+    height: 95%;
+    object-fit: fill;
+    margin-bottom: -5%;
+}
+
+/* Exp Container */
+.experiences .title {
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 3.5%;
+}
+
+.exp-container {
+    width: 95%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.project_container {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+@media screen and (max-width:680px) {
+    .about {
+        width: 80%;
+        margin-left: 15%;
+        padding-right: 5%;
+    }
+
+    .about .container {
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+
+    .about .container .text {
+        width: 100%;
+    }
+
+    .about .container .text p {
+        font-size: 13px;
+        padding-bottom: 10%;
+    }
+
+    .about .container .text h2 {
+        padding: 5% 5% 5% 5%;
+    }
+
+    .about .container .image-box {
+        width: 100%;
+    }
+
+    .project_container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .exp-container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .experiences {
+        width: 100%;
+    }
+
+    .experiences .title {
+        margin-top: 2.2rem;
+        font-size: 1.4rem;
+        margin-bottom: 2rem;
+    }
+
+    .h1 {
+        font-size: 1.5rem !important;
+        margin-bottom: 10%;
+        margin-top: 28% !important;
+    }
+
+    .p {
+        width: 100% !important;
+        margin-bottom: 10%;
+    }
+
+    .about h1 {
+        padding-bottom: 7%;
+    }
+}
+
+
+@media screen and (max-width:1440px) {
+    .experiences .title
+    .about {
+        margin-top: 25%;
+        z-index: 10;
+    }
+}
