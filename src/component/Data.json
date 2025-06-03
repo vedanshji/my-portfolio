@@ -1,0 +1,93 @@
+{
+  "user": {
+    "IntroLine": "Hi, I'm Vedansh.",
+    "About": "Yo! I’m a code-slingin’ dreamer from India, blending tech with a splash of stardust. 🌠 Obsessed with AI, Deep Learning, DevOps and all things Gen AI — basically turning sci-fi into real life. 🤯💡 When I’m not arguing with my code like it’s my ex, I’m chasing sunsets for the ‘Gram, calling my blurry pics “aesthetic” 📸, managing chaos like it’s a group project (and I’m the only one working), or driving like Google Maps just said “good luck.” 🗺️💥Brains, vibes, and big dreams — that’s the energy. Let’s make magic with code. 💫👨‍💻",
+    "email": "vedansh.raj@outlook.com"
+  },
+  "socials": {
+    "github": "https://github.com/vedanshji",
+    "linkedin": "https://www.linkedin.com/in/vedansh-ji/",
+    "twitter": "https://x.com/Vedanshsriji",
+    "discord": "https://discordapp.com/users/unavilable",
+    "instagram": "https://www.instagram.com/vedanshsofficial/",
+    "stackoverflow": "https://stackoverflow.com/users/25664777/vedanshji",
+    "dev":"https://dev.to/vedanshji"
+  },
+  "RandomAboutText": [
+    "Things I have working and willing to work on more like this",
+    "In my world, projects don’t ‘end’ — they just level up. 🎮 Every time I think I’ve nailed it, a wild idea appears, it’s a loop. And honestly? I kinda love it.” 🔁💻✨"
+  ],
+  "exp": {
+    "exp1": {
+      "company_name": "ANZ Bank Ltd",
+      "start_date": "June 1st, 2025",
+      "end_date": "Continue",
+      "designation": "DevOps Enginner",
+      "description": "Working as Google cloud & Devops enginner at ANZ bank"
+    },
+    "exp2": {
+      "company_name": "Agriculture Insurance Company of India",
+      "start_date": "Nov 1, 2023",
+      "end_date": "March 31, 2025",
+      "designation": "Server Administrator",
+      "description": "Works as Server Admin for maintaing, installing, Configuration server for organisation"
+    },
+    "exp3":{
+      "company_name":"Canara HSBC Life Insurance Company",
+      "start_date":"August 1, 2022",
+      "end_date":"October 31, 2023",
+      "designation":"IT Application Admin",
+      "description":" Works as application admin for application Configuration,Maintenance,Customization and Troubleshooting"
+    }
+    
+  },
+  "projects": {
+    "project1": {
+      "name": "Green-School",
+      "description": "A dynamic and user-friendly website designed to showcase a school’s vision, academics, events, and community. It includes features like announcements, student/teacher portals, gallery, contact forms, and more —",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    },
+    "project2": {
+      "name": "A-Education",
+      "description": " A clean, responsive platform designed to connect students with expert tutors. It features course listings, tutor profiles, online registration, class schedules, and contact forms — making learning accessible, organized, and engaging",
+      "tech_stack": "HTML5, CSS3, Python"
+    },
+    "project3": {
+      "name": "drophome",
+      "description": "A sleek and responsive platform that allows users to book rides quickly and easily. Features include real-time cab availability, fare estimation, driver tracking, booking history, and secure payment integration — all designed to make commuting smarter and smoother.",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    },
+    "project4": {
+      "name": "Chatboat Sail",
+      "description": "An intelligent and interactive chatbot application designed to simulate human-like conversations. It supports real-time messaging, natural language understanding, and personalized responses — ideal for customer support, FAQs, or just having fun chats. Built for speed, simplicity, and smart interactions ",
+      "tech_stack": "HTML5, CSS3, Python"
+    },
+    "project5": {
+      "name": "Legal Company",
+      "description": " A modern, responsive website built for a legal practice to showcase its services, attorneys, and areas of expertise. Features include attorney profiles, practice area pages, appointment booking, client testimonials, and a secure contact form — all designed to build trust and make legal help more accessible.",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    },
+    "project6": {
+      "name": "The Stay PG",
+      "description": "A simple project for the PG owner to manage the in and out, joining and leaving and for managing the finance for the PG caretaker.",
+      "tech_stack": "HTML5, CSS3, Javascript"
+    }
+    
+  },
+  
+  "ArtWorks": {
+    "Work1": {
+      "img": "Clicks/01-art.jpg"
+    },
+    "Work2": {
+      "img": "Clicks/01-click.jpg"
+    },
+    "Work3": {
+      "img": "Clicks/02-click.jpg"
+    },
+    "Work4": {
+      "img": "Clicks/03-click.jpg"
+    }
+  },
+  "myCV": "/myCV.pdf"
+}
