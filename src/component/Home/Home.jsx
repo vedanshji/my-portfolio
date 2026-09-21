@@ -32,7 +32,7 @@ const Home = () => {
           <p>{Data.user.About}</p>
           <h1 id="#location" style={{ opacity: "0.6", fontSize: "1.5rem" }}>
             <CiLocationOn style={{ position: "relative", bottom: "-4px" }} />{" "}
-            Jharkhand, India
+            Gurugram, India
           </h1>
         </div>
       </div>
