@@ -18,28 +18,30 @@
     "In my world, projects don’t ‘end’ — they just level up. 🎮 Every time I think I’ve nailed it, a wild idea appears, it’s a loop. And honestly? I kinda love it.” 🔁💻✨"
   ],
   "exp": {
-    "exp1": {
-      "company_name": "ANZ Bank Ltd",
-      "start_date": "June 1st, 2025",
-      "end_date": "Continue",
-      "designation": "DevOps Enginner",
-      "description": "Working as Google Cloud Admin at ANZ bank"
-    },
-    "exp2": {
-      "company_name": "Agriculture Insurance Company of India",
-      "start_date": "Nov 1, 2023",
-      "end_date": "March 31, 2025",
-      "designation": "Server Administrator",
-      "description": "Works as Server Admin for maintaing, installing, Configuration server for organisation"
-    },
-    "exp3":{
-      "company_name":"Canara HSBC Life Insurance Company",
-      "start_date":"August 1, 2022",
-      "end_date":"October 31, 2023",
-      "designation":"IT Application Admin",
-      "description":" Works as application admin for application Configuration,Maintenance,Customization and Troubleshooting"
-    }
-    
+  "exp1": {
+    "company_name": "Wipro",
+    "start_date": "Oct 2023",
+    "end_date": "Present",
+    "designation": "DevOps Engineer",
+    "description": [
+      "Reviewed and validated pull requests submitted by engineering teams, auditing code and plan outputs against security guardrails before merging to the main branch to ensure zero-drift, reliable GCP deployments.",
+      "Provisioned and managed enterprise GCP cloud infrastructure, standardizing project hierarchies, VPC networking, and least-privilege IAM roles.",
+      "Served as a core engineer in the Kubernetes squad, managing multi-tenant cluster resources via Terraform to automate namespace provisioning, tune ResourceQuotas/limit ranges, and resolve runtime pod scheduling bottlenecks across GCP environments.",
+      "Troubleshot core GCP infrastructure incidents across VPC routing, Compute Engine VMs, and IAM authentication, reducing MTTR by 30%.",
+      "Conducted FinOps cost reviews across GCP workloads, eliminating orphaned resources and rightsizing compute to achieve a 20% cloud spend reduction.",
+      "Engineered platform automation prototypes including automated pipeline rollbacks, ChatOps bots, and AI-assisted triage tools to eliminate 10+ hours of weekly toil."
+    ]
+  },
+  "exp2": {
+    "company_name": "Wipro",
+    "start_date": "Aug 2022",
+    "end_date": "Sep 2023",
+    "designation": "Server Administrator",
+    "description": [
+      "Administered enterprise hybrid server fleets across Linux and Windows Server, configuring DNS, DHCP, Active Directory, and Group Policy Objects (GPO).",
+      "Maintained high-availability server clusters (Hyper-V, Failover Clustering), resolving critical P1/P2 production incidents with zero downtime."
+    ]
+  }
   },
   "projects": {
     "project1": {
